@@ -5,7 +5,7 @@
 This is my first solo experience as a game developer. I've been loving it so far and hope to keep improving this game and myself as a game dev!
 
 - This repository contains:
-- The Unity project
+- The Unity project (Working on it...)
 - Build for MacOS and Windows
 ## About this Game:
 
